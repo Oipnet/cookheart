@@ -2,7 +2,7 @@
   "name": "cookheart",
   "version": "1.0.0",
   "description": "Reseau social de partage culinaire",
-  "author": "Arnaud POINTET &lt;arnaud.pointet@gmail.com&gt;",
+  "author": "Arnaud POINTET <arnaud.pointet@gmail.com>",
   "private": true,
   "scripts": {
     "dev": "nuxt-ts",
